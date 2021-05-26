@@ -1,4 +1,5 @@
-path: ../../gcs
+path: 
+- ../../gcs
 minerName: miner1
 apiKey: b6204845-bf43-4911-ad52-5201f4d00789
 cachePath: ""

@@ -1,0 +1,16 @@
+path: ../../gcs
+minerName: miner1
+apiKey: b6204845-bf43-4911-ad52-5201f4d00789
+cachePath: ""
+deviceId: ""
+extraParams: {}
+log:
+  lv: info
+  path: ./log/
+  name: miner.log
+url:
+  info: ""
+  submit: ""
+scanPath: true
+scanMinute: 10
+
